@@ -32,7 +32,7 @@ p {
 .buttons-container {
   display: flex;
   justify-content: center;
-  gap: 15px; /* Mejor separación entre botones */
+  gap: 15px;
 }
 
 button {
